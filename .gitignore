@@ -1,0 +1,4 @@
+out/*.go
+logs/*
+mysqlgogenerator
+.idea/*

@@ -1,0 +1,5 @@
+#MySQL数据库连接地址 具体到库名称 用户名密码
+MysqlAddr = "xxx:password@tcp(127.0.0.1:3306)/dbtest?parseTime=True&loc=Local"
+
+# DB tag 默认值为 `db:"table_name"`  snake case
+#DBTag = ""
