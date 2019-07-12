@@ -32,3 +32,17 @@ app/  cmd/  config/  config.toml  out/  query.tpl  README.md  run.sh  vendor/
 
 
 
+### 编译tips
+
+首先将源码目录放在 **GOPATH** 以下的目录
+
+查看本地go version
+
+1、go version 低于 1.11 使用 go vendor 
+
+2、go version 高于 1.11 使用 go module进行包管理 
+
+go mod 可能需要设置GO111MODULE=on
+
+![https://github.com/elegantm/mysqlgogenerator/pic/2019-07-12_14-50-23.png]()
+
