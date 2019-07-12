@@ -1,8 +1,8 @@
 package main
 
 import (
-	"git.ucloudadmin.com/securityhouse/mysqlgogenerator/app"
-	"git.ucloudadmin.com/securityhouse/mysqlgogenerator/config"
+	"github.com/elegantm/mysqlgogenerator/app"
+	"github.com/elegantm/mysqlgogenerator/config"
 	"log"
 )
 

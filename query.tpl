@@ -20,7 +20,7 @@ type {{.StrutName}} struct {
 // {{.TableName}}  empty
 type {{.StrutName}} struct {
 {{- range .Fields}}
-	{{.Name}}: 
+	{{.Name}}: {{.DataType}}
 {{- end}}
 }
 
