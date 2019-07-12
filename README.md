@@ -44,5 +44,9 @@ app/  cmd/  config/  config.toml  out/  query.tpl  README.md  run.sh  vendor/
 
 go mod 可能需要设置GO111MODULE=on
 
-![https://github.com/elegantm/mysqlgogenerator/pic/2019-07-12_14-50-23.png]()
+![pic/2019-07-12_14-50-23.png]()
+
+
+
+
 
