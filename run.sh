@@ -1,2 +1,2 @@
-go build -o mysqlgogenerator cmd/main.go
+go build -mod=vendor  -o mysqlgogenerator cmd/main.go
 ./mysqlgogenerator
